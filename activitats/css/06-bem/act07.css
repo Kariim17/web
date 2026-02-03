@@ -1,0 +1,27 @@
+.comentarios {
+    width: 400px;
+}
+
+.comentario {
+    border: 1px solid black;
+    padding: 10px;
+    margin-bottom: 10px;
+}
+
+.nombre {
+    font-weight: bold;
+}
+
+.formulario input {
+    width: 100%;
+    margin-bottom: 10px;
+}
+
+.formulario textarea {
+    width: 100%;
+    margin-bottom: 10px;
+}
+
+button {
+    padding: 5px;
+}
