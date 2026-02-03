@@ -1,0 +1,66 @@
+body {
+    margin: 0;
+    background-color: #f5f5f5;
+}
+
+header {
+    background-color: white;
+    padding: 20px;
+    border-bottom: 1px solid #ddd;
+}
+
+header h1 {
+    display: inline;
+    color: red;
+}
+
+header span {
+    color: black;
+}
+
+.feed {
+    float: right;
+    color: gray;
+    text-decoration: none;
+}
+
+.presentacion {
+    background-color: white;
+    padding: 30px;
+    margin-bottom: 20px;
+}
+
+.nombre {
+    background-color: red;
+    color: white;
+    padding: 5px;
+}
+
+.about {
+    color: red;
+}
+
+h2 {
+    margin-left: 20px;
+    color: gray;
+}
+
+.post {
+    background-color: white;
+    padding: 20px;
+    margin: 20px;
+    border-bottom: 1px solid #ddd;
+}
+
+.fecha {
+    color: gray;
+}
+
+.titulo {
+    color: red;
+}
+
+a {
+    color: red;
+    text-decoration: none;
+}
