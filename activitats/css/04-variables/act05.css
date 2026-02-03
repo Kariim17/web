@@ -1,0 +1,15 @@
+.rectangulo {
+    --altura: 100px;          
+    height: var(--altura);
+    width: calc(var(--altura) * 2);
+
+    background-color: steelblue;
+    color: white;
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+    font-weight: bold;
+    border: 2px solid black;
+}

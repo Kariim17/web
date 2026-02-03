@@ -1,0 +1,21 @@
+header {
+    background-color: lightgray;
+    padding: 10px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.logo {
+    font-weight: bold;
+}
+
+nav a {
+    margin: 10px;
+    text-decoration: none;
+    color: black;
+}
+
+form input {
+    padding: 5px;
+}

@@ -1,0 +1,14 @@
+h1 {
+    color: darkred;
+}
+
+/* Subtítulo */
+h2 {
+    color: darkorange;
+}
+
+/* Párrafos */
+p {
+    color: #333;
+    line-height: 1.6;
+}

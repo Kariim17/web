@@ -1,0 +1,18 @@
+#pluton {
+    color: darkred;
+}
+
+/* Clases */
+.nou {
+    font-weight: bold;
+}
+
+.venus {
+    font-style: italic;
+}
+
+.marte {
+    background-color: #f0f0f0;
+    padding: 10px;
+    display: inline-block;
+}
